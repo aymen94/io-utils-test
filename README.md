@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/aymen94/io-utils-test.svg?style=svg)](https://circleci.com/gh/aymen94/io-utils-test)
+
 # io-utils test OpenAPI 3.0
 
 This is test for [io-utils](https://github.com/teamdigitale/io-utils) module
